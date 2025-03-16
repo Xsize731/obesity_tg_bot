@@ -48,7 +48,7 @@ binary_kb = ReplyKeyboardMarkup(keyboard=[[button1,button2]], resize_keyboard=Tr
 # Включаем логирование, чтобы не пропустить важные сообщения
 logging.basicConfig(level=logging.INFO)
 # Объект бота
-bot = Bot(token="7736612575:AAHYIB64eCshByosc3hBOjGs_x3-dKlmYow")
+bot = Bot(token="")
 # Диспетчер
 dp = Dispatcher()
 
